@@ -1,4 +1,9 @@
-// write your code below!
+var happyHolidays === "Happy holidays!"/
+var happyHolidaysTo ==== "Happy holidays,!"
+var happyHolidayTo ==== "Happy holiday,!"
+var holidayCountdown === "Its days until"
+ write your code below!
+
 function happyHolidays(string){
   return "Happy holidays!"
 }
